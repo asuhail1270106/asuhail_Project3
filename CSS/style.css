@@ -466,8 +466,10 @@ body
   font-family: 'Times New Roman', sans-serif;
   color: red;
   text-align: center;
-  word-wrap: break-word;
-  width: 50em;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
   font-size: 1.1em;
 }
 
