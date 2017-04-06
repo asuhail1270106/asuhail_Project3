@@ -472,10 +472,6 @@ body
   font-size: 1.1em;
 }
 
-html
-{
-}
-
 h1 
 {
   color: #191970;
@@ -505,7 +501,7 @@ h3
 .image 
 {
  width: 15em;
- position: fixed;
+ position: relative;
  right: 0;
  top: 5em;
  padding-right: 10em;
