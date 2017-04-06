@@ -466,6 +466,8 @@ body
   font-family: 'Times New Roman', sans-serif;
   color: red;
   text-align: center;
+  word-wrap: break-word;
+  width: 100px;
   font-size: 1.1em;
 }
 
@@ -476,16 +478,19 @@ html
 h1 
 {
   color: #191970;
+  text-align: left;
 }
 
 h2
 {
   color: #FF4500;
+  text-align: left;
 }
 
 h3
 {
   color: #00008B;
+  text-align: left;
 }
 
 .center
