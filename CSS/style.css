@@ -465,13 +465,12 @@ body
   background-image: url("https://raw.githubusercontent.com/asuhail1270106/asuhail_Project3/master/pictures/wsb-project2-bg.jpg");
   font-family: 'Times New Roman', sans-serif;
   color: red;
+  text-align: center;
   font-size: 1.1em;
 }
 
 html
 {
-  padding-right: 30em;
-  padding-left: 30em;
 }
 
 h1 
