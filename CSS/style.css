@@ -465,11 +465,10 @@ body
   background-image: url("https://raw.githubusercontent.com/asuhail1270106/asuhail_Project3/master/pictures/wsb-project2-bg.jpg");
   font-family: 'Times New Roman', sans-serif;
   color: red;
-  text-align: center;
   margin: auto;
   width: 50%;
-  border: 3px solid green;
-  padding: 10px;
+  border: .25em solid green;
+  padding: .65em;
   font-size: 1.1em;
 }
 
