@@ -501,7 +501,7 @@ h3
 .image 
 {
  width: 15em;
- position: relative;
+ float: right;
  right: 0;
  top: 5em;
  padding-right: 10em;
