@@ -463,6 +463,7 @@ template {
 body 
 {
   background-image: url("https://raw.githubusercontent.com/asuhail1270106/asuhail_Project3/master/pictures/wsb-project2-bg.jpg");
+  background-color: #fffacd;
   font-family: 'Times New Roman', sans-serif;
   color: red;
   margin: auto;
@@ -470,11 +471,6 @@ body
   border: .25em solid green;
   padding: .65em;
   font-size: 1.1em;
-}
-
-.bodycolor
-{
-  background-color: #fffacd;
 }
 
 h1 
