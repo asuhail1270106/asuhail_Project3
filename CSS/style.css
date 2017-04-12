@@ -472,6 +472,11 @@ body
   font-size: 1.1em;
 }
 
+.bodycolor
+{
+  background-color: #fffacd;
+}
+
 h1 
 {
   color: #191970;
@@ -513,6 +518,7 @@ ul#list-nav
   list-style-type: none;
   margin: 0;
   padding: 0;
+  max-width: 100%; 
   overflow: hidden;
 }
 
