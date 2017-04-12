@@ -500,7 +500,8 @@ h3
 
 .image 
 {
- width: 15em;
+ max-width: 100%; 
+ height: auto;
  float: right;
  right: 0;
  top: 0;
