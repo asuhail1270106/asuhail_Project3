@@ -468,7 +468,7 @@ body
   margin: inherit;
   width: 50%;
   border: .25em solid green;
-  padding: 0em 0em 0em 0em;
+  padding: 0em;
   font-size: 1.1em;
 }
 #bodycolor
