@@ -468,7 +468,7 @@ body
   margin: auto;
   width: 50%;
   border: .25em solid green;
-  padding: .85em;
+  padding: 0em;
   font-size: 1.1em;
 }
 #bodycolor
