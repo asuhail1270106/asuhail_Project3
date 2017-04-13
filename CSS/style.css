@@ -473,7 +473,8 @@ body
 }
 #bodycolor
 {
-   background-color: #fffacd
+   background-color: #fffacd;
+   padding 0em;
 }
 h1 
 {
