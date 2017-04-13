@@ -517,7 +517,6 @@ ul#list-nav
   list-style-type: none;
   background-color: #F08080;
   padding: 0;
-  max-width: 100%; 
   overflow: hidden;
 }
 
