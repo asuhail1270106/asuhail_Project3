@@ -515,7 +515,7 @@ h3
 ul#list-nav 
 {
   list-style-type: none;
-  margin: 0;
+  background-color: #F08080;
   padding: 0;
   max-width: 100%; 
   overflow: hidden;
@@ -531,16 +531,13 @@ ul#list-nav li a
   text-align: center;
   padding: 1em 1em;
   text-decoration: none;
-  background:#D2691E;
-  color: #006400;
   float:left;
   border-left:1px solid #fff;
 }
 
 ul#list-nav li a:hover 
 {
-  background:#a2b3a1;
-  color:#000
+ background-color: #FFD700;
 }
 
 #wrap
