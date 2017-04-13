@@ -519,6 +519,7 @@ ul#list-nav
   padding: 0;
   overflow: hidden;
   width: 100%; 
+  text-align: center;
 }
 
 ul#list-nav li 
