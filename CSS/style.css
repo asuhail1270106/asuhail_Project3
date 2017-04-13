@@ -467,7 +467,7 @@ body
   color: red;
   margin: auto;
   width: 50%;
-  border: .25em solid green;
+  border: 0em solid green;
   padding: 0em;
   font-size: 1.1em;
 }
