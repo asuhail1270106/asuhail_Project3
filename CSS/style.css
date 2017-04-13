@@ -467,7 +467,6 @@ body
   color: red;
   margin: auto;
   width: 50%;
-  line-height: 0;
   border: .25em solid green;
   padding: .65em;
   font-size: 1.1em;
@@ -529,7 +528,6 @@ ul#list-nav li
 
 ul#list-nav li a 
 {
-  display: block;
   text-align: center;
   padding: 1em 1em;
   text-decoration: none;
