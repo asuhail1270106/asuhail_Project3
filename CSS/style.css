@@ -512,6 +512,14 @@ h3
  top: 0;
 }
 
+nav#list-nav
+{
+  display: inline-block;
+  text-align: center;
+  margin:0 auto;
+  float: left;
+}
+
 ul#list-nav 
 {
   list-style-type: none;
