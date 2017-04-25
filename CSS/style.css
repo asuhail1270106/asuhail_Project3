@@ -525,6 +525,7 @@ ul#list-nav
 ul#list-nav li 
 {
   float: left;
+  text-align: center;
 }
 
 ul#list-nav li a 
