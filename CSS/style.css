@@ -512,28 +512,17 @@ h3
  top: 0;
 }
 
-nav#list-nav
-{
-  display: inline-block;
-  text-align: center;
-  margin:0 auto;
-  float: left;
-}
-
 ul#list-nav 
 {
   list-style-type: none;
   background-color: #F08080;
-  text-align: center;
   padding: 0;
   overflow: hidden;
-  width: 100%; 
 }
 
 ul#list-nav li 
 {
   float: left;
-  display: inline-block;
 }
 
 ul#list-nav li a 
@@ -544,8 +533,6 @@ ul#list-nav li a
   text-decoration: none;
   border-left:1px solid #fff;
 }
-
-
 
 ul#list-nav li a:hover 
 {
