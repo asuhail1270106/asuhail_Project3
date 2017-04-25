@@ -516,9 +516,9 @@ ul#list-nav
 {
   list-style-type: none;
   background-color: #F08080;
+  margin: 0;
   padding: 0;
   overflow: hidden;
-  width: auto;
 }
 
 ul#list-nav li 
@@ -530,7 +530,7 @@ ul#list-nav li a
 {
   display: block;
   text-align: center;
-  padding: 1em 1em;
+  padding: .5em 1em;
   text-decoration: none;
   border-left:1px solid #fff;
 }
