@@ -541,7 +541,10 @@ ul#list-nav li a
   text-align: center;
   padding: .5em 1em;
   text-decoration: none;
-  border: 0em .25em .25em .25em solid #98FB98;
+  border-top: 0em solid #98FB98;  
+  border-left: .25em solid #98FB98;
+  border-bottom: .25em solid #98FB98;
+  border-right: .25em solid #98FB98;
 }
 
 ul#list-nav li a:hover 
