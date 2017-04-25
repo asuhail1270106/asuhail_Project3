@@ -504,12 +504,12 @@ h3
 
 .image 
 {
- width: 15em;
- max-width: 100%; 
- height: auto;
- float: right;
- right: 0;
- top: 0;
+  width: 15em;
+  max-width: 100%; 
+  height: auto;
+  float: right;
+  right: 0;
+  top: 0;
 }
 
 ul#list-nav 
@@ -518,7 +518,7 @@ ul#list-nav
   background-color: #F08080;
   padding: 0;
   overflow: hidden;
-  width: 100%;
+  width: 50%;
 }
 
 ul#list-nav li 
