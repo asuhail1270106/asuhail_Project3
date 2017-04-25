@@ -469,7 +469,7 @@ body
   margin: auto;
   width: 60%;
   padding: .50em;
-  font-size: 1.1em;
+  font-size: 1.0em;
 }
 
 #bodyspecs
@@ -541,7 +541,7 @@ ul#list-nav li a
   text-align: center;
   padding: .5em 1em;
   text-decoration: none;
-  border:.10em solid #98FB98;
+  border: .25em solid #98FB98;
 }
 
 ul#list-nav li a:hover 
