@@ -517,11 +517,12 @@ h3
 
 .images
 {
- width: 15em;
- position: absolute;
- right: 0;
- top: 5em;
- padding-right: 10em;
+  width: 15em;
+  max-width: 100%; 
+  height: auto;
+  float: right;
+  right: 0;
+  top: 0;
 }
 
 ul#list-nav 
