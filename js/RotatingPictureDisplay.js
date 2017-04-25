@@ -10,7 +10,7 @@ $(window).load
         var initialize = 0;
         var firstAppear = 500;
 	var nextAppear = 1500;
-        var dispTime = 4500;
+        var dispTime = 2500;
         var counter = $('.images').length;
         //begin with first picture in rotating diplay
         $('.images').eq(initialize).fadeIn(firstAppear);
