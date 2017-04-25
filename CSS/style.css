@@ -468,7 +468,7 @@ body
   margin: auto;
   width: 50%;
   border: .25em solid green;
-  padding: 0em;
+  padding: .50em;
   font-size: 1.1em;
 }
 #bodycolor
@@ -524,7 +524,7 @@ ul#list-nav
 
 ul#list-nav li a 
 {
-  display: block;
+  display: inline-block;
   text-align: center;
   padding: 1em 1em;
   text-decoration: none;
