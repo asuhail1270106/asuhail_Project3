@@ -468,7 +468,7 @@ body
   margin: auto;
   width: 50%;
   border: .25em solid green;
-  padding: 0em;
+  padding: .50em;
   font-size: 1.1em;
 }
 #bodycolor
@@ -516,10 +516,10 @@ ul#list-nav
 {
   list-style-type: none;
   background-color: #F08080;
+  text-align: center;
   padding: 0;
   overflow: hidden;
   width: 100%; 
-  text-align: center;
 }
 
 ul#list-nav li 
