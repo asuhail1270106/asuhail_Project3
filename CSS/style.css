@@ -462,18 +462,18 @@ template {
 
 body 
 {
-  background-image: url("https://raw.githubusercontent.com/asuhail1270106/asuhail_Project3/master/pictures/wsb-project2-bg.jpg");
+  background-image: url("https://raw.githubusercontent.com/asuhail1270106/asuhail_Project3/master/pictures/AB.jpg");
   font-family: 'Times New Roman', sans-serif;
-  color: red;
+  color: #800000;
   margin: auto;
   width: 50%;
-  border: .25em solid green;
+  border: .25em solid #98FB98;
   padding: .50em;
   font-size: 1.1em;
 }
 #bodycolor
 {
-   background-color: #fffacd;
+   background-color: #FFFFF0;
    padding 0em;
 }
 h1 
@@ -484,7 +484,7 @@ h1
 
 h2
 {
-  color: #800000;
+  color: #4682B4;
   text-align: left;
 }
 
@@ -537,7 +537,7 @@ ul#list-nav li a
 
 ul#list-nav li a:hover 
 {
- background-color: #FFD700;
+ background-color: #191970;
 }
 
 #wrap
