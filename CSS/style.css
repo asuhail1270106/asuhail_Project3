@@ -513,6 +513,7 @@ h3
 
 #image-wrap
 {
+  position: relative;
 }
 
 .images
