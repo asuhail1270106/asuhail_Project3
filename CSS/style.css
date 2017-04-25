@@ -511,14 +511,10 @@ h3
   position: relative;
 }
 
-#image-wrap 
-{
-}
-
 .images
 {
   width: 15em;
-  max-width: 100%; 
+  max-width: 100%;
   height: auto;
   float: right;
   right: 0;
