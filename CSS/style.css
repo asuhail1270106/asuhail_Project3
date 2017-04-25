@@ -462,19 +462,18 @@ template {
 
 body 
 {
-  background-image: url("https://github.com/asuhail1270106/asuhail_Project3/blob/master/pictures/AB.gif?raw=true");
+  background-image: url("https://github.com/asuhail1270106/asuhail_Project3/blob/master/pictures/RH.gif?raw=true");
   font-family: 'Times New Roman', sans-serif;
   color: #800000;
   margin: auto;
   width: 50%;
-  border: .25em solid #98FB98;
   padding: .50em;
   font-size: 1.1em;
 }
 
 #bodycolor
 {
-   
+  border: .25em solid #98FB98;  
 }
 
 h1 
