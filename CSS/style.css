@@ -518,6 +518,7 @@ h3
 .images
 {
   display: none;
+  position: absolute;
   width: 15em;
   max-width: 100%;
   height: auto;
