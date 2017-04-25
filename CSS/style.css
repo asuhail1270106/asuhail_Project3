@@ -522,11 +522,6 @@ ul#list-nav
   width: 100%; 
 }
 
-ul#list-nav li 
-{
-  float: left;
-}
-
 ul#list-nav li a 
 {
   display: block;
