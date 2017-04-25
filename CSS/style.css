@@ -473,6 +473,7 @@ body
 
 #bodycolor
 {
+  margin: .5em;
   border: .25em solid #98FB98;  
 }
 
