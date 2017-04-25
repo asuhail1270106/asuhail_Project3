@@ -465,10 +465,9 @@ body
   background-image: url("https://raw.githubusercontent.com/asuhail1270106/asuhail_Project3/master/pictures/wsb-project2-bg.jpg");
   font-family: 'Times New Roman', sans-serif;
   color: red;
-  margin: auto;
   width: 50%;
   border: .25em solid green;
-  padding: .50em;
+  padding: 0em;
   font-size: 1.1em;
 }
 #bodycolor
@@ -522,19 +521,22 @@ ul#list-nav
   width: 100%; 
 }
 
+ul#list-nav li 
+{
+  float: left;
+  display: inline-block;
+}
+
 ul#list-nav li a 
 {
-  display: inline-block;
+  display: block;
   text-align: center;
   padding: 1em 1em;
   text-decoration: none;
   border-left:1px solid #fff;
 }
 
-ul#list-nav li 
-{
-  float: left;
-}
+
 
 ul#list-nav li a:hover 
 {
