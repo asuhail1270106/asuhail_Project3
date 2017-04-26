@@ -477,7 +477,6 @@ body
   margin: .5em;
   border: .25em solid #98FB98;
   background-color: #FDF5E6;
-  
 }
 
 #bodyspecs2
@@ -538,6 +537,7 @@ ul#list-nav
   background-color: #F08080;
   margin: 0;
   padding: 0;
+  width: 50%;
   overflow: hidden;
 }
 
