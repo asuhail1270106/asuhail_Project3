@@ -513,12 +513,13 @@ h3
 
 #image-wrap
 {
-  position: absolute;
+  position: relative;
 }
 
 .images
 {
   display: none;
+  position: absolute;
   width: 30%;
   max-width: 20em;
   float: right;
