@@ -520,8 +520,8 @@ h3
 {
   display: none;
   position: absolute;
-  width: 15em;
-  max-width: 100%;
+  width: 15%;
+  max-width: 20em;
   float: right;
   right: 0;
   top: 0;
