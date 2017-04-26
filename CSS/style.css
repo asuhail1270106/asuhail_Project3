@@ -482,10 +482,13 @@ body
 
 #bodyspecs2
 {
-  position: absolute;
   padding: 2em;  
 }
 
+.bodyspec3
+{
+   position: absolute;
+}
 
 h1 
 {
