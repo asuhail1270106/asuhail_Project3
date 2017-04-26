@@ -519,7 +519,6 @@ h3
 .images
 {
   display: none;
-  position: absolute;
   width: 30%;
   max-width: 20em;
   float: right;
